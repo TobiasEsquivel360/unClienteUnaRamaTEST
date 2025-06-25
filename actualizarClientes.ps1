@@ -1,6 +1,6 @@
 Set-Location "C:\Biblioteca\githubTest\unClienteUnaRama"
 
-$clientes = @("clienteA","clienteB")
+$clientes = @("clienteA")
 
 foreach ($cliente in $clientes) {
 
@@ -9,6 +9,9 @@ foreach ($cliente in $clientes) {
     # Cambio a la rama del cliente
     git checkout $cliente
 
-    git add 
+    git merge main
+    git push origin $cliente
+
+    Write-Host "Cliente actualizado"
 
 }
