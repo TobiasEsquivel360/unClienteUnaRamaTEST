@@ -7,5 +7,6 @@
     echo "Cambio compartido antes de powershell 3";
     echo "Cambio compartido antes de powershell 4";
     echo "Cambio compartido antes de powershell 5";
+    echo "Cambio compartido antes de powershell 6";
 
 ?>

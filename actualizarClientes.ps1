@@ -1,6 +1,6 @@
 Set-Location "C:\Biblioteca\githubTest\unClienteUnaRama"
 
-$clientes = @("clienteA")
+$clientes = @("clienteA", "clienteB")
 
 foreach ($cliente in $clientes) {
 
