@@ -9,7 +9,7 @@ foreach ($cliente in $clientes) {
     # Cambio a la rama del cliente
     git checkout $cliente
 
-    git merge main
+    git merge main --no-edit
     git push origin $cliente
 
     Write-Host "Cliente actualizado"
