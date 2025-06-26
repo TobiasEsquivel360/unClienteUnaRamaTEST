@@ -1,6 +1,5 @@
 <?php
 
-    echo "prueba en documentacion ultima"
-
+    echo "prueba eliminando archivos en clientes a y b"
 
 ?>
