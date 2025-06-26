@@ -1,4 +1,4 @@
-Set-Location "C:\Biblioteca\githubTest\unClienteUnaRama"
+Set-Location "C:\Users\tesqu\OneDrive\Desktop\clon\unClienteUnaRamaTEST"
 
 $clientes = @("clienteA", "clienteB")
 
