@@ -9,4 +9,6 @@
     echo "Cambio compartido antes de powershell 5";
     echo "Cambio compartido antes de powershell 6";
 
+    echo "probar powershell"
+
 ?>
